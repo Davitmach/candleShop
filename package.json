@@ -1,0 +1,18 @@
+{
+    "Home": {
+        "Main_slider": [
+            {
+                "background": "../assets/slider/slider1.jpg",
+                "title": "FlAME"
+            },
+            {
+                "background": "../assets/slider/slider2.jpg",
+                "title": "LIGHT"
+            },
+            {
+                "background": "../assets/slider/slider3.jpg",
+                "title": "SCENT"
+            }
+        ]
+    }
+}
